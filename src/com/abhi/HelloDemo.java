@@ -12,5 +12,9 @@ public class HelloDemo {
 		myMethod();
 		
 	}
+	
+	private void newMethod() {
+		
+	}
 
 }
